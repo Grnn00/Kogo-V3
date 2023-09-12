@@ -1,0 +1,2 @@
+Nome	 Cognome	 Hobby	 Saldo
+Kelvin	  Kogo	 Lettura	 0,02 
